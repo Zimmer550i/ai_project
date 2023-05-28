@@ -5,7 +5,7 @@
  [Version 0.1 (Alpha)](https://github.com/Zimmer550i/ai_project/releases/tag/v0.1-alpha)
  Download and install apk
  
-# Reuse guide for my code
+# Reuse Guide For My Code
  - Clone this repo.
  - Change `model.tflite` and `label.txt` file with your model and label files in `assets` folder.
  - Change filenames if necessary from the code (Line 74-79, home.dart)
